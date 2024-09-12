@@ -1,0 +1,10 @@
+//console.log("karka");
+//console.log(123)
+//console.log("123+234");
+//console.log(123+234);
+//console.log("123"+"123");
+//console.log(123+"456");
+//console.log(4+5+"123");
+//console.log("123"+4+5);
+//console.log(1+2+"123"+4+5);
+console.log("2+4"+"123"+4+5);
